@@ -35,8 +35,4 @@ Key analytical techniques included:
 3. Proximity Analysis: We analyzed the proximity of human settlements and roads to both conflict hotspots and elephant habitats to assess the level of human vulnerability.
 4. Spatial Overlay: Multiple layers (e.g., LULC, hotspots, and human settlements) were overlaid to pinpoint the specific areas where human activity and elephant movement are most likely to result in conflict.
 
-How to Use This Project
-You can replicate or build upon this analysis by following the steps below.
-Clone the Repository: Download all the project files from this GitHub repository.
-Open in QGIS: Open the .qgz project file in QGIS to view all the layers, symbology, and analysis outputs.
-Explore the Data: You can explore the data layers, modify the symbology, or perform further analysis using the provided data files.
+
